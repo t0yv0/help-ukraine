@@ -5,7 +5,7 @@ Where can foreigners donate to support Ukraine?
 https://ukrainewar.carrd.co/
 
 * Regional
-
+1
 ** Kyiv
 
 *** Kyiv Humanitarian Platform
@@ -26,22 +26,31 @@ town and I have relatives still there.
 
 I am friends with a relative of the mayor of Ochakiv, small town in
 South Ukraine, and we are collecting funds for necessities. Among
-other needs, they are (as of `Mar 9, 2022`) urgently trying to order
-an electrical generator while it still can be obtained from Odessa, to
-secure electricity for water pumps and other city needs.
+other needs, they are (as of Mar 10, 2022: 160k out of 600k UAH)
+urgently trying to order an electrical generator while it still can be
+obtained from Odessa, to secure electricity for water pumps and other
+city needs.
 
-When donating please specify reason, "for electrical generator", or
-"for food and medicine", etc.
+USD Transfers
 
-ГУМАНІТАРНА ДОПОМОГА - HUMANITARIAN AID
+| Recipient   | OCHAKIVSKYY MISKYY BLAHODIYNYY FOND OCHAKIV DLIA LIUDEY                         |
+| Address     | 57508, Mykolayivska obl., misto Ochakiv, VULYTSIA KHETAHUROVA KOSTY, budynok 44 |
+| Phone       | +380515430854                                                                   |
+| USREOU code | 37237595                                                                        |
+| IBAN        | IBAN UA58 305299 00000 26001041715237                                           |
+| Bank        | PrivatBank                                                                      |
+| SWIFT       | PBANUA2x                                                                        |
+| Notes       | Donation for electrical generator                                               |
 
-- Очаківський міський благодійний фонд "Очаків для Людей"
-- Ochakiv city charity fund "Ochakiv for the People"
+Переводи у гривні
 
-ЄДРПОУ 37237595
-
-- АБ Укргазбанк    IBAN UA68 320478 00000 26001924892759 (гривня)
-- АТ КБ Приватбанк IBAN UA58 305299 00000 26001041715237 (USD)
+| Фонд        | Очаківський міський благодійний фонд "Очаків для Людей"  |
+| Адреса      | 57508, Миколаївська обл., м. Очаків, вул. Хетагурова, 44 |
+| Тел         | +380515430854                                            |
+| ЄДРПОУ      | 37237595                                                 |
+| IBAN        | IBAN UA68 320478 00000 26001924892759                    |
+| Банк        | АБ Укргазбанк                                            |
+| Призначення | Внесок на електричний генератор                          |
 
 
 * Refugees
