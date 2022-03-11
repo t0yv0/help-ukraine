@@ -44,6 +44,13 @@ USD Transfers
 | SWIFT       | PBANUA2x                                                                        |
 | Notes       | Donation for electrical generator                                               |
 
+Correspondent Banks
+
+| Bank                                       |      Account | SWIFT      |
+|--------------------------------------------+--------------+------------|
+| JP Morgan Chase Bank, New York, USA        | 001-1-000080 | CHASUS33   |
+| The Bank of New York Mellon, New York, USA | 890-0085-754 | IRVT US 3N |
+
 Переводи у гривні
 
 | Фонд        | Очаківський міський благодійний фонд "Очаків для Людей"  |
