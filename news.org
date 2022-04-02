@@ -1,0 +1,43 @@
+Following events in a war is very taxing. You will quickly run into
+propaganda, unconfirmed rushed stories that turn out false, fakes, low
+quality takes.
+
+On the other hand if you only follow reputable sources that verify
+their stories, you will need to wait, and for certain events you just
+will never know because these sources have no possibilty to verify
+things. Sometimes the sources will retract. I have ran into one BBC
+retraction already.
+
+With all that being said, here are some of the media I am looking at.
+
+* Twitter
+
+I made a [[https://twitter.com/i/lists/1510060288522997762][list]] I am following for updates on the war.
+
+* [[https://www.pravda.com.ua/][pravda.com.ua]]
+
+The news feed in Ukrainian is a decent source for the Ukrainian
+version of events.
+
+* [[https://kyivindependent.com/][Kyiv Independent]]
+
+Good source in English.
+
+* Defunct Russian Sources
+
+I used to follow these occasionally for a decade or so, but they were
+closed down for not complying with tightening regulations in Russia:
+
+- https://echo.msk.ru/
+- https://novayagazeta.ru/
+
+* [[https://latynina.tv/][latynina.tv]]
+
+Formerly on echo.msk.ru that closed down. Occasionally interesting
+inreviews in Russian.
+
+* Telegram
+
+** @uniannett
+
+Lots of updates from Ukrainian POV, quality varies.
