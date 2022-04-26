@@ -20,6 +20,44 @@ tolerance.
 I am personally supporting this org financially as Kyiv is my home
 town and I have relatives still there.
 
+
+
+** Mykolaiv
+
+Ochakiv is a small town in the Mykolaiv region in the South.
+Previously I have contributed to a collecton for an electrical
+generator, but there are still some open needs in the community as of
+Apr 26, so leaving it open here.
+
+USD Transfers
+
+| Recipient   | OCHAKIVSKYY MISKYY BLAHODIYNYY FOND OCHAKIV DLIA LIUDEY                         |
+| Address     | 57508, Mykolayivska obl., misto Ochakiv, VULYTSIA KHETAHUROVA KOSTY, budynok 44 |
+| Phone       | +380515430854                                                                   |
+| USREOU code | 37237595                                                                        |
+| IBAN        | IBAN UA58 305299 00000 26001041715237                                           |
+| Bank        | PrivatBank                                                                      |
+| SWIFT       | PBANUA2x                                                                        |
+| Notes       | Donation                                                |
+
+Correspondent Banks
+
+| Bank                                       |      Account | SWIFT      |
+|--------------------------------------------+--------------+------------|
+| JP Morgan Chase Bank, New York, USA        | 001-1-000080 | CHASUS33   |
+| The Bank of New York Mellon, New York, USA | 890-0085-754 | IRVT US 3N |
+
+Переводи у гривні
+
+| Фонд        | Очаківський міський благодійний фонд "Очаків для Людей"  |
+| Адреса      | 57508, Миколаївська обл., м. Очаків, вул. Хетагурова, 44 |
+| Тел         | +380515430854                                            |
+| ЄДРПОУ      | 37237595                                                 |
+| IBAN        | IBAN UA68 320478 00000 26001924892759                    |
+| Банк        | АБ Укргазбанк                                            |
+| Призначення | Внесок на благодійність                                  |
+
+
 * Refugees
 
 As of Mar 3, more than a million people crossed the borderes to flee
